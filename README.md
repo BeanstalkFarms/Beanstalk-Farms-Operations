@@ -1,2 +1,2 @@
 # Beanstalk-Farms-Operations
-Monthly reports on Beanstalk Farms expenses.
+Monthly reports on Beanstalk Farms and Bean Sprout expenses.
