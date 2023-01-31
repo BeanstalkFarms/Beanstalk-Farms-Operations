@@ -1,0 +1,152 @@
+<img src="https://github.com/BeanstalkFarms/Beanstalk-Brand-Assets/blob/main/beanstalk-farms/beanstalk-farms-logo-circle.png" alt="Beanstalk Farms logo" align="right" width="120" />
+
+# Beanstalk Farms January 2023 Operations Report
+
+[1. Dashboard](#dashboard)  
+[2. Expenses by Category](#expenses-by-category)  
+[3. Expenses by Date](#expenses-by-date)  
+[4. Balances](#balances)  
+[5. Paid Contributors](#paid-contributors)  
+[6. Community Grants](#community-grants)  
+
+## Dashboard
+
+![image](https://arweave.net/V3-JVVQfRPMLMjjxF62iRa7667D3cX62_iGEPVo-0ak)  
+![image](https://arweave.net/z7wt7hYIG4Ph4350kbLtUDk7xh3_sb_A7jJhzmBhls8)
+
+## Expenses by Category
+
+[BFM](https://docs.bean.money/almanac/governance/beanstalk-farms/bfm-dashboard) transaction history can be viewed on [Safe](https://app.safe.global/eth:0x21DE18B6A8f78eDe6D16C50A167f6B222DC08DF7/transactions/history).
+
+| Description                                                                                      | Transaction                                                                                             | USDC    | Beans       |
+|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------|:--------|:------------|
+|                                                                                                  |                                                                                                         |         |             |
+| **Marketing expenses:**                                                                          |                                                                                                         |         |             |
+| Community grants to Kobe Bean, tumilet, and Everything Blockchain for Twitter threads and blogs. | [Etherscan](https://etherscan.io/tx/0x85a5ed0f3f5560e8e177205f128ed22c9b63bd585abb8a3b6bc3330c78583900) |         | 400         |
+| Payment to a designer for community assets.                                                      | [Etherscan](https://etherscan.io/tx/0x85a5ed0f3f5560e8e177205f128ed22c9b63bd585abb8a3b6bc3330c78583900) |         | 3,400       |
+| **Total marketing expenses**                                                                     |                                                                                                         |         | **3,800**   |
+|                                                                                                  |                                                                                                         |         |             |
+| **Compensation expenses:**                                                                       |                                                                                                         |         |             |
+| Payroll for 1/1/23 through 1/15/23.                                                              | [Etherscan](https://etherscan.io/tx/0x93253a3b409b82867022cc03e2e00bda86d5a4d613caf21c1cc725d8f80bde4d) |         | 89,408      |
+| Payroll for 1/16/23 through 1/31/23.                                                             | [Etherscan](https://etherscan.io/tx/0x85a5ed0f3f5560e8e177205f128ed22c9b63bd585abb8a3b6bc3330c78583900) |         | 114,604     |
+| Contract with a contributor for work on the Beanstalk Learning Center.                           | [Etherscan](https://etherscan.io/tx/0x85a5ed0f3f5560e8e177205f128ed22c9b63bd585abb8a3b6bc3330c78583900) |         | 4,000       |
+| **Total compensation expenses**                                                                  |                                                                                                         |         | **208,012** |
+|                                                                                                  |                                                                                                         |         |             |
+| **Technology expenses:**                                                                         |                                                                                                         |         |             |
+| Reimbursement to a contributor for recruiting expenses.                                          | [Etherscan](https://etherscan.io/tx/0x93253a3b409b82867022cc03e2e00bda86d5a4d613caf21c1cc725d8f80bde4d) | 299     |             |
+| Reimbursement to contributors for covering various technology expenses in January.               | [Etherscan](https://etherscan.io/tx/0x85a5ed0f3f5560e8e177205f128ed22c9b63bd585abb8a3b6bc3330c78583900) | 96      | 319         |
+| Contract for developer recruiting assistance.                                                    | [Etherscan](https://etherscan.io/tx/0x85a5ed0f3f5560e8e177205f128ed22c9b63bd585abb8a3b6bc3330c78583900) |         | 250         |
+| Development grant for work on Tractor.                                                           | [Etherscan](https://etherscan.io/tx/0x85a5ed0f3f5560e8e177205f128ed22c9b63bd585abb8a3b6bc3330c78583900) |         | 4,000       |
+| **Total technology expenses**                                                                    |                                                                                                         | **395** | **4,569**   |
+|                                                                                                  |                                                                                                         |         |             |
+| **Total January 2023 expenses**                                                                  |                                                                                                         | **395** | **216,381** |
+
+## Expenses by Date
+
+[BFM](https://docs.bean.money/almanac/governance/beanstalk-farms/bfm-dashboard) transaction history can be viewed on [Safe](https://app.safe.global/eth:0x21DE18B6A8f78eDe6D16C50A167f6B222DC08DF7/transactions/history).
+
+
+| Date       | USDC    | Beans       | Reason                                                                                           | Transaction                                                                                             |
+|:-----------|:--------|:------------|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------|
+| 01/15/2023 |         | 89,408      | Payroll for 1/1/23 through 1/15/23.                                                              | [Etherscan](https://etherscan.io/tx/0x93253a3b409b82867022cc03e2e00bda86d5a4d613caf21c1cc725d8f80bde4d) |
+| 01/15/2023 | 299     |             | Reimbursement to a contributor for recruiting expenses.                                          | [Etherscan](https://etherscan.io/tx/0x93253a3b409b82867022cc03e2e00bda86d5a4d613caf21c1cc725d8f80bde4d) |
+| 01/31/2023 |         | 114,604     | Payroll for 1/16/23 through 1/31/23.                                                             | [Etherscan](https://etherscan.io/tx/0x85a5ed0f3f5560e8e177205f128ed22c9b63bd585abb8a3b6bc3330c78583900) |
+| 01/31/2023 |         | 400         | Community grants to Kobe Bean, tumilet, and Everything Blockchain for Twitter threads and blogs. | [Etherscan](https://etherscan.io/tx/0x85a5ed0f3f5560e8e177205f128ed22c9b63bd585abb8a3b6bc3330c78583900) |
+| 01/31/2023 |         | 3,400       | Payment to a designer for community assets.                                                      | [Etherscan](https://etherscan.io/tx/0x85a5ed0f3f5560e8e177205f128ed22c9b63bd585abb8a3b6bc3330c78583900) |
+| 01/31/2023 |         | 4,000       | Contract with a contributor for work on the Beanstalk Learning Center.                           | [Etherscan](https://etherscan.io/tx/0x85a5ed0f3f5560e8e177205f128ed22c9b63bd585abb8a3b6bc3330c78583900) |
+| 01/31/2023 | 96      | 319         | Reimbursement to contributors for covering various technology expenses in January.               | [Etherscan](https://etherscan.io/tx/0x85a5ed0f3f5560e8e177205f128ed22c9b63bd585abb8a3b6bc3330c78583900) |
+| 01/31/2023 |         | 250         | Contract for developer recruiting assistance.                                                    | [Etherscan](https://etherscan.io/tx/0x85a5ed0f3f5560e8e177205f128ed22c9b63bd585abb8a3b6bc3330c78583900) |
+| 01/31/2023 |         | 4,000       | Development grant for work on Tractor.                                                           | [Etherscan](https://etherscan.io/tx/0x85a5ed0f3f5560e8e177205f128ed22c9b63bd585abb8a3b6bc3330c78583900) |
+| **Total**  | **395** | **216,381** |                                                                                                  |                                                                                                         |
+
+## Balances
+
+### USDC
+
+| Description                      | Amount      | Notes                                                                                                             |
+|:---------------------------------|:------------|:------------------------------------------------------------------------------------------------------------------|
+| Beginning balance as of 1/1/23   | 139,407     |                                                                                                                   |
+| USDC expenses                    | (395)       | See [Expenses](#expenses-by-category).                                                                            |
+| **Ending balance as of 1/31/23** | **139,012** | Balance can be viewed on [Safe](https://app.safe.global/eth:0x21DE18B6A8f78eDe6D16C50A167f6B222DC08DF7/balances). |
+
+### Bean
+
+| Description                      | Circulating | Deposited   | Total       | Notes                                                                                                                                                                                         |
+|----------------------------------|-------------|-------------|-------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Beginning balance as of 1/1/23   | 400,986     | 18,589      | 419,575     |                                                                                                                                                                                               |
+| Silo Deposit for payroll         | (296,903)   | 296,903     | -           | [Etherscan](https://etherscan.io/tx/0x5d9e2a586f87762799e7456e57874ff2a1d3e27bdd43a94df25d79583964d92f)                                                                                       |
+| Bean expenses                    | (12,119)    | (204,262)   | (216,381)   | See [Expenses](#expenses-by-category).                                                                                                                                                        |
+| **Ending balance as of 1/31/23** | **91,964**  | **111,230** | **203,194** | Circulating balance can be viewed on [Safe](https://app.safe.global/eth:0x21DE18B6A8f78eDe6D16C50A167f6B222DC08DF7/balances). Silo Deposits will not be visible but can be verified on-chain. |
+
+## Paid Contributors
+
+### Organizational Chart
+
+<img src="https://arweave.net/xSPN5_AwLFbwSMMUDYInDdx2jpHe_3sr6jY_DW0nEzA" width="700">
+
+### Hired via BFCP-A: Beanstalk Farms Committee Members
+
+Read more about the [Beanstalk Farms Committee](https://docs.bean.money/almanac/governance/beanstalk-farms#beanstalk-farms-committee) and [BFCP proposals](https://docs.bean.money/almanac/governance/proposals#bfcp).
+
+| Name          | Proposal                                                                    | End of Term    | Department  | Monthly Pay in Beans | Hours per Week |
+|:--------------|:----------------------------------------------------------------------------|:---------------|:------------|:---------------------|:---------------|
+| guy           | [BFCP-C-2](https://arweave.net/DUocfZDWPqHZIgK97A9-BrPVX53UEEVHSA2Ukv9h5CM) | December 2023  | Operations  | 20,000               | 40+            |
+| Silo Chad     | [BFCP-C-2](https://arweave.net/DUocfZDWPqHZIgK97A9-BrPVX53UEEVHSA2Ukv9h5CM) | December 2023  | Engineering | 30,000               | 40+            |
+| sweetredbeans | [BFCP-C-2](https://arweave.net/DUocfZDWPqHZIgK97A9-BrPVX53UEEVHSA2Ukv9h5CM) | December 2023  | Design      | 22,500               | 40+            |
+| mod323*       | [BFCP-C-1](https://arweave.net/nxAIOEOxENBqAO3jEDKSzS6jDRUGcgCups3p7Ljc5uc) | September 2023 | Advisor     | -                    | n/a            |
+
+*mod323 has elected to waive the compensation established in [BFCP-A-2](https://arweave.net/fZDBmoXR25P_lXPcdLRf4AN0p0J37E00oLHhGG6pjcc) effective 12/1/2022 but will remain on the BFC persuant to renewal in BFCP-C-1.
+
+### Hired via BFBP-A
+
+Read more about [BFBP proposals](https://docs.bean.money/almanac/governance/proposals#bfbp).
+
+| Role                       | Department  | Monthly Pay in Beans | Hours per Week |
+|:---------------------------|:------------|:---------------------|:---------------|
+| Senior Full-Stack Engineer | Engineering | 25,000               | 40+            |
+| Full-Stack Engineer        | Engineering | 17,000               | 40+            |
+| Frontend Engineer          | Engineering | 16,000               | 40+            |
+| Solidity Engineer          | Engineering | 15,000               | 40+            |
+| Middleware Engineer        | Engineering | 9,000                | 20             |
+| Senior Frontend Engineer   | Engineering | 8,333                | 15             |
+| Product Designer           | Design      | 3,500                | 10             |
+| Product Designer           | Design      | 3,500                | 10             |
+| Operations Manager         | Operations  | 8,125                | 25             |
+| Operations Associate       | Operations  | 4,000                | 20             |
+| Graphic Designer           | Marketing   | 2,000                | 10             |
+
+### Summary of Recurring Payroll Expenditures
+
+The table below represents ongoing payroll expense levels as of 1/31/2023 and excludes development grants and contracts which are one time payments upon successful completion of the scope of work.
+
+| Department  | Monthly Payroll | % of Payroll |
+|:------------|:----------------|:-------------|
+| Engineering | 120,333         | 65.4%        |
+| Operations  | 32,125          | 17.5%        |
+| Design      | 29,500          | 16.0%        |
+| Marketing   | 2,000           | 1.1%         |
+| **Total**   | **183,958**     | **100.0%**   |
+
+### Development Grants and Contracts
+
+Proposals are not required for grants or contracts under 10,000 Beans per [BIP-25](https://arweave.net/O9-WKx4x7cu6YFeeowI5i1IG3kcaxQ1vwtr-hduWQos).
+
+| Description                  | Recipient  | Beans     | Proposal |
+|:-----------------------------|:-----------|:----------|:---------|
+| Tractor - Code & Tests       | m00n       | 4,000     | n/a      |
+| Various product design tasks | Kotaro     | 1,750     | n/a      |
+| Various product design tasks | ChillBeans | 875       | n/a      |
+| **Total**                    |            | **6,625** |          |
+
+## Community Grants
+
+The [community grant program](https://docs.bean.money/almanac/community/community-grant-program) has a budget of 30,000 Beans per month per [BIP-22](https://arweave.net/6aaL15siu33-dSL5wbrF0t10xzhIZ1IDQTVK-dINsHw).
+
+| Description                       | Beans       | Notes                                           |
+|:----------------------------------|:------------|:------------------------------------------------|
+| Beginning balance as of 1/1/23    | 150,000     | 30,000 Beans each month from August - December. |
+| Previous grants paid              | (30,200)    |                                                 |
+| December grants paid              | (400)       | See [Expenses](#expenses-by-category).          |
+| **Ending balance as of 1/31/23*** | **119,400** |                                                 |
+
+*If BIP-33 passes, community grant balances will no longer roll over to subsequent months.
