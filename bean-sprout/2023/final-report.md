@@ -1,5 +1,7 @@
 # Bean Sprout Final Operations Report
 
+View on [Arweave](https://arweave.net/aW1B_QH_su2q3063SeMLDD-AVjf9VXwjsdgfpUVSEPc)
+
 | Date              | Description                                                                              | Beans    | USDC     | Notes                                                                                                                                                                                                                                                                             |
 | :---------------- | :--------------------------------------------------------------------------------------- | :------- | :------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 12/31/2022        | Beginning balance                                                                        | 3,333    |          | See [Bean Sprout December 2022 Operations Report](https://arweave.net/nJ1cmL-tWgy1C3hXZEzf5JBtPqtKNaVbgWKCqPoXRns)                                                                                                                                                                |
